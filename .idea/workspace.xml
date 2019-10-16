@@ -83,6 +83,7 @@
       <find>.primary-nav</find>
       <find>background-color:#22</find>
       <find>style.css</find>
+      <find>Powered</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="474" />
     <option name="y" value="-9" />
     <option name="width" value="697" />
@@ -186,16 +187,15 @@
       <option name="presentableId" value="Default" />
       <updated>1571022950255</updated>
       <workItem from="1571022951635" duration="4478000" />
-      <workItem from="1571200996083" duration="8325000" />
+      <workItem from="1571200996083" duration="9009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12803000" />
+    <option name="totallyTimeSpent" value="13487000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25359577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
