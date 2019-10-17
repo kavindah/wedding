@@ -3,107 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e229dbe8-fad5-4322-ad0c-6650affe18c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/404.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/archive.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/comments.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/content-link.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/content-page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/content-single.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/content.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/admin/block-editor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/admin/editor-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/admin/meta-box.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/admin/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/mobile.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/unsemantic-grid-lite.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/unsemantic-grid-lite.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/unsemantic-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/css/unsemantic-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/generatepress.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/generatepress.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/generatepress.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/generatepress.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/fonts/generatepress.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/block-editor.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/class-css.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/css-output.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/class-deprecated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/class-range-control.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/class-typography-control.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/class-upsell-control.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/class-upsell-section.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/css/selectWoo.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/css/slider-customizer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/css/typography-customizer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/css/upsell-customizer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/js/customizer-controls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/js/customizer-live-preview.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/js/selectWoo.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/js/slider-control.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/js/typography-customizer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/controls/js/upsell-control.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/customizer-helpers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/deprecated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/customizer/helpers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/dashboard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/defaults.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/deprecated.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/general.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/markup.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/meta-box.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/migrate.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/plugin-compat.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/archives.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/comments.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/featured-images.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/footer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/navigation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/post-meta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/structure/sidebars.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/theme-functions.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/inc/typography.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/a11y.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/a11y.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/admin/block-editor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/admin/tinycolor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/back-to-top.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/back-to-top.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/classList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/classList.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/dropdown-click.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/dropdown-click.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/menu.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/navigation-search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/js/navigation-search.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/no-results.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/page.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/rtl.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/search.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/searchform.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/sidebar-left.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/sidebar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/single.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/generatepress/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/krystal/inc/template-functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/krystal/inc/template-functions.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,11 +31,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/krystal/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="37" column="104" selection-start-line="37" selection-start-column="104" selection-end-line="37" selection-end-column="104" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/krystal/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/krystal/inc/template-functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="185" column="159" selection-start-line="185" selection-start-column="159" selection-end-line="185" selection-end-column="159" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-admin/css/widgets-rtl.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3774">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -178,6 +105,8 @@
       <find>Just another WordPress site</find>
       <find>&lt;style id='generate-style-inline-css' type='text/css'&gt;</find>
       <find>no-customize-support</find>
+      <find>copyrights</find>
+      <find>widget-tit</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -199,6 +128,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/generatepress/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/krystal/index.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/krystal/footer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/krystal/inc/template-functions.php" />
       </list>
     </option>
   </component>
@@ -275,12 +206,12 @@
       <updated>1571022950255</updated>
       <workItem from="1571022951635" duration="4478000" />
       <workItem from="1571200996083" duration="9605000" />
-      <workItem from="1571279702612" duration="3548000" />
+      <workItem from="1571279702612" duration="5553000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17631000" />
+    <option name="totallyTimeSpent" value="19636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -299,7 +230,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.15711948" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2651391" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -431,6 +362,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="37" column="104" selection-start-line="37" selection-start-column="104" selection-end-line="37" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/krystal/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/krystal/inc/template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="185" column="159" selection-start-line="185" selection-start-column="159" selection-end-line="185" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-admin/css/widgets-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3774">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>

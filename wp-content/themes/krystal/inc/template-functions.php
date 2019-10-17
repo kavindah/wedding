@@ -183,7 +183,7 @@ function krystal_footer_copyrights() {
 	?>
 		<div class="row">
             <div class="copyrights">
-                <p><?php echo esc_attr(get_theme_mod( 'kr_copyright_text', __('Copyrights krystal. All Rights Reserved','krystal')) ); ?><span><?php _e(' | Theme by ','krystal') ?><a href="https://www.spiraclethemes.com/" target="_blank"><?php _e('Spiraclethemes','krystal') ?></a></span></p>
+                <p><?php echo esc_attr(get_theme_mod( 'kr_copyright_text', __('Copyrights krystal. All Rights Reserved','krystal')) ); ?><?php _e(' | Published by Wedding ','wedding') ?></p>
             </div>
         </div>
 	<?php
